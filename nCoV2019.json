@@ -1,7 +1,29 @@
-{
+[
+{ 
+	"id":"2019-nCoV",
     "total":8162,
     "deaths":171,
     "recovered":141,
-    "suspected":12167
+    "suspected":12167,
+    "range":"2019 - now"
+},
+{ 
+	"id":"MERS-CoV",
+    "total":2494,
+    "deaths":858,
+    "recovered":0,
+    "suspected":0,
+    "range":"2012 - now"
+},
+{ 
+	"id":"SARS-CoV",
+    "total":8098,
+    "deaths":774,
+    "recovered":0,
+    "suspected":0,
+    "range":"2002 - now"
 }
 
+
+
+]
