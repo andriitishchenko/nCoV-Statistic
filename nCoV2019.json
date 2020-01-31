@@ -1,9 +1,9 @@
 [
 { 
 	"id":"2019-nCoV",
-    "total":9922,
+    "total":9954,
     "deaths":213,
-    "recovered":180,
+    "recovered":218,
     "suspected":15238,
     "range":"2019 - now",
     "countries":[
@@ -41,18 +41,17 @@
 ,{"title":"Hong Kong Special Administrative Region","count":12,"lat":22.2793278,"lon":114.1628131}
 ,{"title":"Macao Special Administrative Region","count":7,"lat":22.1899448,"lon":113.5380454}
 ,{"title":"Taiwan","count":9,"lat":23.9739374,"lon":120.9820179}
-,{"title":"Japan","count":12,"lat":36.5748441,"lon":139.2394179}
-,{"title":"Korea","count":7,"lat":36.5581914,"lon":127.9408564}
-,{"title":"Thailand","count":14,"lat":14.8971921,"lon":100.83273}
-,{"title":"Singapore","count":13,"lat":1.340863,"lon":103.8303918}
+,{"title":"Japan","count":17,"lat":36.5748441,"lon":139.2394179}
+,{"title":"Korea","count":11,"lat":36.5581914,"lon":127.9408564}
+,{"title":"Thailand","count":19,"lat":14.8971921,"lon":100.83273}
+,{"title":"Singapore","count":16,"lat":1.340863,"lon":103.8303918}
 ,{"title":"Vietnam","count":5,"lat":13.2904027,"lon":108.4265113}
 ,{"title":"Nepal","count":1,"lat":28.1083929,"lon":84.0917139}
 ,{"title":"Malaysia","count":8,"lat":4.5693754,"lon":102.2656823}
-,{"title":"United States","count":6,"lat":39.999732971191406,"lon":-98.67850494384766}
 ,{"title":"Australia","count":9,"lat":-24.7761086,"lon":134.755}
-,{"title":"Canada","count":3,"lat":61.0666922,"lon":-107.9917071}
+,{"title":"Canada","count":4,"lat":61.0666922,"lon":-107.9917071}
 ,{"title":"France","count":6,"lat":46.603354,"lon":1.8883335}
-,{"title":"Germany","count":4,"lat":51.0834196,"lon":10.4234469}
+,{"title":"Germany","count":7,"lat":51.0834196,"lon":10.4234469}
 ,{"title":"Sri Lanka","count":1,"lat":7.5554942,"lon":80.7137847}
 ,{"title":"Cambodia","count":1,"lat":13.5066394,"lon":104.869423}
 ,{"title":"United Arab Emirates","count":4,"lat":24.0002488,"lon":53.9994829}
@@ -79,6 +78,16 @@
 ,{"title":"Heyuan","count":1,"lat":23.746777,"lon":114.6954482}
 ,{"title":"Jiangmen","count":2,"lat":22.5766294,"lon":113.079047}
 ,{"title":"Maoming","count":3,"lat":22.5766294,"lon":113.079047}
+,{"title":"England","count":2,"lat":52.7954791,"lon":-0.5402403}
+,{"title":"Russia","count":2,"lat":64.6863136,"lon":97.7453061}
+,{"title":"Sweden","count":1,"lat":59.6749712,"lon":14.5208584}
+
+
+,{"title":"Ontario","count":2,"lat":50.000678,"lon":-86.000977}
+,{"title":"Illinois","count":2,"lat":40.0796606,"lon":-89.4337288}
+,{"title":"Arizona","count":1,"lat":34.395342,"lon":-111.7632755}
+,{"title":"California","count":3,"lat":37.13374328613281,"lon":-120.28640747070312}
+,{"title":"Washington","count":1,"lat":38.8948932,"lon":-77.0365529}
     ]
 },
 { 
