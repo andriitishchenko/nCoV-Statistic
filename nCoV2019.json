@@ -1,11 +1,85 @@
 [
 { 
 	"id":"2019-nCoV",
-    "total":9849,
+    "total":9922,
     "deaths":213,
     "recovered":180,
     "suspected":15238,
-    "range":"2019 - now"
+    "range":"2019 - now",
+    "countries":[
+,{"title":"Hubei Province","count":5806,"lat":22.5469919,"lon":114.1204861}
+,{"title":"Beijing","count":139,"lat":39.906217,"lon":116.3912757}
+,{"title":"Liaoning","count":48,"lat":40.9739116,"lon":122.3263915}
+,{"title":"Anhui","count":237,"lat":32,"lon":117}
+,{"title":"Chongqing","count":211,"lat":29.5585712,"lon":106.5492822}
+,{"title":"Shaanxi","count":87,"lat":36,"lon":109}
+,{"title":"Tianjin","count":32,"lat":39.1235635,"lon":117.1980785}
+,{"title":"Fujian","count":120,"lat":26.5450001,"lon":117.842778}
+,{"title":"Hunan","count":332,"lat":27.6662087,"lon":111.7487063}
+,{"title":"Sichuan","count":177,"lat":30.5000001,"lon":102.4999999}
+,{"title":"Gansu","count":29,"lat":38.0000001,"lon":101.9999999}
+,{"title":"Heilongjiang","count":59,"lat":48.0000047,"lon":127.999992}
+,{"title":"Jiangxi","count":240,"lat":28,"lon":116} 23.1357694,113.1982688
+,{"title":"Guangdong","count":436,"lat":23.1357694,"lon":113.1982688}
+,{"title":"Guizhou","count":29,"lat":27,"lon":107}
+,{"title":"Shanghai","count":135,"lat":31.2252985,"lon":121.4890497}
+,{"title":"Shandong","count":184,"lat":31.2252985,"lon":121.4890497}
+,{"title":"Guangxi Zhuang Autonomous Region","count":87,"lat":23.825336456298828,"lon":108.78987884521484}
+,{"title":"Yunnan","count":83,"lat":25,"lon":102}
+,{"title":"Inner Mongolia Autonomous Region","count":20,"lat":44.065467834472656,"lon":113.8636703491211}
+,{"title":"Zhejiang","count":537,"lat":29.0000001,"lon":119.9999999}
+,{"title":"Henan","count":352,"lat":34.0000001,"lon":113.9999999}
+,{"title":"Hebei","count":82,"lat":39.0000001,"lon":116}
+,{"title":"Hainan","count":52,"lat":19.2000001,"lon":109.5999999}
+,{"title":"Jilin","count":14,"lat":42.9995032,"lon":125.9816054}
+,{"title":"Shanxi","count":39,"lat":37,"lon":112}
+,{"title":"Ningxia Hui Autonomous Region","count":21,"lat":37.439571380615234,"lon":106.10823822021484}
+,{"title":"Jiangsu","count":168,"lat":33.0000001,"lon":119.9999999}
+,{"title":"Xinjiang Uygur Autonomous Region","count":17,"lat":41.7574769,"lon":87.1673842}
+,{"title":"Qinghai","count":8,"lat":35.4070952,"lon":95.9521157}
+,{"title":"Tibet Autonomous Region","count":1,"lat":31.70243263244629,"lon":88.15946960449219}
+,{"title":"Hong Kong Special Administrative Region","count":12,"lat":22.2793278,"lon":114.1628131}
+,{"title":"Macao Special Administrative Region","count":7,"lat":22.1899448,"lon":113.5380454}
+,{"title":"Taiwan","count":9,"lat":23.9739374,"lon":120.9820179}
+,{"title":"Japan","count":12,"lat":36.5748441,"lon":139.2394179}
+,{"title":"Korea","count":7,"lat":36.5581914,"lon":127.9408564}
+,{"title":"Thailand","count":14,"lat":14.8971921,"lon":100.83273}
+,{"title":"Singapore","count":13,"lat":1.340863,"lon":103.8303918}
+,{"title":"Vietnam","count":5,"lat":13.2904027,"lon":108.4265113}
+,{"title":"Nepal","count":1,"lat":28.1083929,"lon":84.0917139}
+,{"title":"Malaysia","count":8,"lat":4.5693754,"lon":102.2656823}
+,{"title":"United States","count":6,"lat":39.999732971191406,"lon":-98.67850494384766}
+,{"title":"Australia","count":9,"lat":-24.7761086,"lon":134.755}
+,{"title":"Canada","count":3,"lat":61.0666922,"lon":-107.9917071}
+,{"title":"France","count":6,"lat":46.603354,"lon":1.8883335}
+,{"title":"Germany","count":4,"lat":51.0834196,"lon":10.4234469}
+,{"title":"Sri Lanka","count":1,"lat":7.5554942,"lon":80.7137847}
+,{"title":"Cambodia","count":1,"lat":13.5066394,"lon":104.869423}
+,{"title":"United Arab Emirates","count":4,"lat":24.0002488,"lon":53.9994829}
+,{"title":"Finland","count":1,"lat":63.2467777,"lon":25.9209164}
+,{"title":"Philippines","count":1,"lat":12.7503486,"lon":122.7312101}
+,{"title":"India","count":1,"lat":22.3511148,"lon":78.6677428}
+,{"title":"Italy","count":2,"lat":42.6384261,"lon":12.674297}
+,{"title":"Guangzhou","count":112,"lat":23.1301964,"lon":113.2592945}
+,{"title":"Shenzhen","count":134,"lat":22.555454,"lon":114.0543297}
+,{"title":"Zhuhai","count":34,"lat":22.2305196,"lon":113.5462439}
+,{"title":"Shantou","count":12,"lat":23.356377,"lon":116.6775918}
+,{"title":"Foshan","count":33,"lat":23.0247687,"lon":113.1146335}
+,{"title":"Shaoguan","count":4,"lat":24.8134099,"lon":113.5923564}
+,{"title":"Meizhou","count":5,"lat":24.3053552,"lon":116.1177436}
+,{"title":"Huizhou","count":20,"lat":23.1060862,"lon":114.4141105}
+,{"title":"Shanwei","count":3,"lat":22.7893675,"lon":115.3721503}
+,{"title":"Dongguan","count":16,"lat":23.0444712,"lon":113.7465512}
+,{"title":"Zhongshan","count":18,"lat":22.5213807,"lon":113.3656141}
+,{"title":"Yangjiang","count":10,"lat":21.8526328,"lon":111.95935}
+,{"title":"Zhanjiang","count":11,"lat":21.2745127,"lon":110.3541291}
+,{"title":"Zhaoqing","count":6,"lat":23.0515551,"lon":112.4728451}
+,{"title":"Qingyuan","count":6,"lat":23.6832984,"lon":113.0505994}
+,{"title":"Jieyang","count":6,"lat":23.5430817,"lon":116.3497169}
+,{"title":"Heyuan","count":1,"lat":23.746777,"lon":114.6954482}
+,{"title":"Jiangmen","count":2,"lat":22.5766294,"lon":113.079047}
+,{"title":"Maoming","count":3,"lat":22.5766294,"lon":113.079047}
+    ]
 },
 { 
 	"id":"MERS-CoV",
@@ -13,7 +87,8 @@
     "deaths":858,
     "recovered":0,
     "suspected":0,
-    "range":"2012 - now"
+    "range":"2012 - now",
+    "countries":[]
 },
 { 
 	"id":"SARS-CoV",
@@ -21,7 +96,8 @@
     "deaths":774,
     "recovered":0,
     "suspected":0,
-    "range":"2002 - now"
+    "range":"2002 - now",
+    "countries":[]
 }
 
 
