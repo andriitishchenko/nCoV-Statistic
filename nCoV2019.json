@@ -1,10 +1,10 @@
 [
 { 
 	"id":"2019-nCoV",
-    "total":9954,
-    "deaths":213,
-    "recovered":218,
-    "suspected":15238,
+    "total":11821,
+    "deaths":259,
+    "recovered":243,
+    "suspected":17988,
     "range":"2019 - now",
     "countries":[
 {"title":"Hubei Province","count":5806,"lat":22.5469919,"lon":114.1204861}
@@ -81,6 +81,8 @@
 ,{"title":"England","count":2,"lat":52.7954791,"lon":-0.5402403}
 ,{"title":"Russia","count":2,"lat":64.6863136,"lon":97.7453061}
 ,{"title":"Sweden","count":1,"lat":59.6749712,"lon":14.5208584}
+,{"title":"Spain","count":1,"lat":39.3262345,"lon":-4.8380649}
+
 
 
 ,{"title":"Ontario","count":2,"lat":50.000678,"lon":-86.000977}
