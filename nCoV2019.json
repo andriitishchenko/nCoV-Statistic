@@ -1,9 +1,9 @@
 [
 { 
 	"id":"2019-nCoV",
-    "total":14411,
+    "total":14489,
     "deaths":304,
-    "recovered":328,
+    "recovered":442,
     "suspected":19544,
     "range":"2019 - now",
     "countries":[
