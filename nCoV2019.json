@@ -1,10 +1,10 @@
 [
 { 
 	"id":"2019-nCoV",
-    "total":11821,
-    "deaths":259,
-    "recovered":252,
-    "suspected":17988,
+    "total":14411,
+    "deaths":304,
+    "recovered":328,
+    "suspected":19544,
     "range":"2019 - now",
     "countries":[
 {"title":"Hubei Province","count":5806,"lat":22.5469919,"lon":114.1204861}

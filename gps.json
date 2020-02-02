@@ -1,0 +1,82 @@
+[
+{"title":"Hubei Province","lat":22.5469919,"lon":114.1204861}
+,{"title":"Beijing","lat":39.906217,"lon":116.3912757}
+,{"title":"Liaoning","lat":40.9739116,"lon":122.3263915}
+,{"title":"Anhui","lat":32,"lon":117}
+,{"title":"Chongqing","lat":29.5585712,"lon":106.5492822}
+,{"title":"Shaanxi","lat":36,"lon":109}
+,{"title":"Tianjin","lat":39.1235635,"lon":117.1980785}
+,{"title":"Fujian","lat":26.5450001,"lon":117.842778}
+,{"title":"Hunan","lat":27.6662087,"lon":111.7487063}
+,{"title":"Sichuan","lat":30.5000001,"lon":102.4999999}
+,{"title":"Gansu","lat":38.0000001,"lon":101.9999999}
+,{"title":"Heilongjiang","lat":48.0000047,"lon":127.999992}
+,{"title":"Jiangxi","lat":28,"lon":116}
+,{"title":"Guangdong","lat":23.1357694,"lon":113.1982688}
+,{"title":"Guizhou","lat":27,"lon":107}
+,{"title":"Shanghai","lat":31.2252985,"lon":121.4890497}
+,{"title":"Shandong","lat":31.2252985,"lon":121.4890497}
+,{"title":"Guangxi Zhuang Autonomous Region","lat":23.825336456298828,"lon":108.78987884521484}
+,{"title":"Yunnan","lat":25,"lon":102}
+,{"title":"Inner Mongolia Autonomous Region","lat":44.065467834472656,"lon":113.8636703491211}
+,{"title":"Zhejiang","lat":29.0000001,"lon":119.9999999}
+,{"title":"Henan","lat":34.0000001,"lon":113.9999999}
+,{"title":"Hebei","lat":39.0000001,"lon":116}
+,{"title":"Hainan","lat":19.2000001,"lon":109.5999999}
+,{"title":"Jilin","lat":42.9995032,"lon":125.9816054}
+,{"title":"Shanxi","lat":37,"lon":112}
+,{"title":"Ningxia Hui Autonomous Region","lat":37.439571380615234,"lon":106.10823822021484}
+,{"title":"Jiangsu","lat":33.0000001,"lon":119.9999999}
+,{"title":"Xinjiang Uygur Autonomous Region","lat":41.7574769,"lon":87.1673842}
+,{"title":"Qinghai","lat":35.4070952,"lon":95.9521157}
+,{"title":"Tibet Autonomous Region","lat":31.70243263244629,"lon":88.15946960449219}
+,{"title":"Hong Kong Special Administrative Region","lat":22.2793278,"lon":114.1628131}
+,{"title":"Macao Special Administrative Region","lat":22.1899448,"lon":113.5380454}
+,{"title":"Taiwan","lat":23.9739374,"lon":120.9820179}
+,{"title":"Japan","lat":36.5748441,"lon":139.2394179}
+,{"title":"Korea","lat":36.5581914,"lon":127.9408564}
+,{"title":"Thailand","lat":14.8971921,"lon":100.83273}
+,{"title":"Singapore","lat":1.340863,"lon":103.8303918}
+,{"title":"Vietnam","lat":13.2904027,"lon":108.4265113}
+,{"title":"Nepal","lat":28.1083929,"lon":84.0917139}
+,{"title":"Malaysia","lat":4.5693754,"lon":102.2656823}
+,{"title":"Australia","lat":-24.7761086,"lon":134.755}
+,{"title":"Canada","lat":61.0666922,"lon":-107.9917071}
+,{"title":"France","lat":46.603354,"lon":1.8883335}
+,{"title":"Germany","lat":51.0834196,"lon":10.4234469}
+,{"title":"Sri Lanka","lat":7.5554942,"lon":80.7137847}
+,{"title":"Cambodia","lat":13.5066394,"lon":104.869423}
+,{"title":"United Arab Emirates","lat":24.0002488,"lon":53.9994829}
+,{"title":"Finland","lat":63.2467777,"lon":25.9209164}
+,{"title":"Philippines","lat":12.7503486,"lon":122.7312101}
+,{"title":"India","lat":22.3511148,"lon":78.6677428}
+,{"title":"Italy","lat":42.6384261,"lon":12.674297}
+,{"title":"Guangzhou","lat":23.1301964,"lon":113.2592945}
+,{"title":"Shenzhen","lat":22.555454,"lon":114.0543297}
+,{"title":"Zhuhai","lat":22.2305196,"lon":113.5462439}
+,{"title":"Shantou","lat":23.356377,"lon":116.6775918}
+,{"title":"Foshan","lat":23.0247687,"lon":113.1146335}
+,{"title":"Shaoguan","lat":24.8134099,"lon":113.5923564}
+,{"title":"Meizhou","lat":24.3053552,"lon":116.1177436}
+,{"title":"Huizhou","lat":23.1060862,"lon":114.4141105}
+,{"title":"Shanwei","lat":22.7893675,"lon":115.3721503}
+,{"title":"Dongguan","lat":23.0444712,"lon":113.7465512}
+,{"title":"Zhongshan","lat":22.5213807,"lon":113.3656141}
+,{"title":"Yangjiang","lat":21.8526328,"lon":111.95935}
+,{"title":"Zhanjiang","lat":21.2745127,"lon":110.3541291}
+,{"title":"Zhaoqing","lat":23.0515551,"lon":112.4728451}
+,{"title":"Qingyuan","lat":23.6832984,"lon":113.0505994}
+,{"title":"Jieyang","lat":23.5430817,"lon":116.3497169}
+,{"title":"Heyuan","lat":23.746777,"lon":114.6954482}
+,{"title":"Jiangmen","lat":22.5766294,"lon":113.079047}
+,{"title":"Maoming","lat":22.5766294,"lon":113.079047}
+,{"title":"England","lat":52.7954791,"lon":-0.5402403}
+,{"title":"Russia","lat":64.6863136,"lon":97.7453061}
+,{"title":"Sweden","lat":59.6749712,"lon":14.5208584}
+,{"title":"Spain","lat":39.3262345,"lon":-4.8380649}
+,{"title":"Ontario","lat":50.000678,"lon":-86.000977}
+,{"title":"Illinois","lat":40.0796606,"lon":-89.4337288}
+,{"title":"Arizona","lat":34.395342,"lon":-111.7632755}
+,{"title":"California","lat":37.13374328613281,"lon":-120.28640747070312}
+,{"title":"Washington","lat":38.8948932,"lon":-77.0365529}
+]
